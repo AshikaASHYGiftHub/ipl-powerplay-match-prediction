@@ -106,7 +106,6 @@ and educational purposes.
 ## Authors
 **Ashika Rajkumar**
 MSc Computing (Data Analytics), Dublin City University
-ashika.rajkumar2@mail.dcu.ie
 
 **Avinash Rajasekar**
 MSc Computing (Data Analytics), Dublin City University
