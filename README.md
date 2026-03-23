@@ -124,11 +124,15 @@ MSc Computing (Data Analytics), Dublin City University
 | Feature engineering | Yes | | | |
 | Dataset merging | Yes | | | |
 | Result interpretation | Yes | | | |
-| Report writing | Yes | | Yes | Yes |
+| Report writing & documentation | Yes | | | Yes |
 | ML model development | | Yes | | |
 | Model training & evaluation | | Yes | | |
+| Performance evaluation | | Yes | | |
 | Exploratory data analysis | | | Yes | |
 | Data visualisation | | | Yes | |
+| Powerplay prediction | | | Yes | |
+| Model comparison | | | Yes | |
 | Dataset identification | | | | Yes |
 | Literature review | | | | Yes |
+| Report formatting | | | | Yes |
 
